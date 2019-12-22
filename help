@@ -1,0 +1,5 @@
+#!/bin/bash
+gnome-terminal -e "./terminal 0"
+gnome-terminal -e "./terminal 1"
+./tinyos_shell 4 2 
+
